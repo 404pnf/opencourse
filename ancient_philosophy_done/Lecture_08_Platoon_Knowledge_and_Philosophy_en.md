@@ -52,6 +52,7 @@ Second argument:
 "The Cave" (Rep. 514a-518d), "The Line" (Rep. 509d-511c), "The Sun" (Rep. 507b-509c) 
 
 Capacity Object Analogue in Cave? Psych. Type? of Thought of Thought 
+
 |Capacity of Thought | Object of Thought | Analogue in Cave? Psych. Type?  |
 |:--------------------|:-----------------|:------------------------------------|
 |Dialectical Thought (Understanding) | Forms | Sun  | Wisdom-lovers |

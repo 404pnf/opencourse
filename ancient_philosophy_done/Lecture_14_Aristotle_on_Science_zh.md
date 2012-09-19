@@ -6,6 +6,7 @@ Scientific knowledge is unified and systematized. To have *scientific* knowledge
 
 Aristotle believed that what is *scientifically* known is what is *demonstrable*, i.e., it must be the conclusion of a demonstration.  A demonstration is a syllogism (or string of syllogisms) which is valid, the premises of which are necessarily true, and which is such that the premises are more knowable than and prior to the conclusion.  A paradigm syllogism is a (valid) argument consisting of two premises and a conclusion, the premises and conclusion each having one of the following forms: 
 
+|    |                      |
 |----|----------------------|
 | A: | All A's are B's.      |
 | E: | No A's are B's.       |
