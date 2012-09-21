@@ -1,0 +1,23 @@
+# Lecture 5 Banking Crises 
+
+Under the classical gold standard, the nominal exchange rate was fixed relative to gold.  Central banks held their reserves largely in the form of gold.  The attraction of this system was that it (a) constrained what central banks could do, creating “credibility”, and (b) also limited fiscal deficits – as long as politicians wanted to remain “on gold”, they had to avoid stimulating the economy.  
+
+There was a direct link between the current account and domestic demand.  If a country had a country account deficit, gold flowed out, tending to contract the money supply and push up interest rates. This is like a shift back and up of the LM curve, i.e., interest rates increasing and income falling in the ISLM space. 
+
+Ideally, there would be downward pressure on wages and prices – the country could move back to current account balance (on the BB curve) and stay at full employment (on the NN curve). 
+
+This adjustment process worked reasonably well in the late nineteenth century and early 20th century. Capital flows could anticipate exchange rate adjustments, so if a country had a current account deficit, gold would flow out of the country in anticipation of a potential devaluation, and this would either (a) prompt monetary contraction and higher interest rates, pulling gold back into the country, or (b) increase the pressure for devaluation. 
+
+In terms of positive effects, this system consistently produced low inflation.  It was also conducive to the development of international trade – as exchange rates were generally predictable. And capital moved freely around much of the world. 
+
+But when prices fall, this increases the real value of debts, i.e., how much borrowers owe, adjusted for inflation. This is known as “debt deflation”. 
+
+As an economy becomes richer, its financial sector naturally becomes larger relative to GDP – there is more intermediation between savers and investors.  Much of this intermediation is in the form of debt – e.g., savers put money on deposit at a bank and the bank lends to a private sector firm.  When the price level falls, this can cause widespread default by borrowers.  It can also jeopardize the solvency of banks, i.e., wiping out shareholder equity. 
+
+If banks start to collapse, there will naturally be fear that problems will spread to other banks.  In addition to solvency concerns, there are also problems of “liquidity” – meaning that the bank cannot borrow enough short-term to fund its operations.  
+
+Bank collapses and contracting credit contribute to pushing down the value of real estate and other assets.  But as these are used as collateral by borrowers, this can also lead to a further contraction in lending. In addition when asset prices – including the stock market – fall, there is a negative “wealth effect” that reduces consumption. 
+
+In the early 1930s, the US (and other) governments had low spending relative to GDP.  It would have been hard to provide much fiscal stimulus, even if the government had wanted to.  In any case, the prevailing orthodoxy was “liquidate, liquidate, liquidate.” 
+
+The Federal Reserve’s commitment to the gold standard meant that it wanted to tighten monetary policy, even as the economy was contracting.  It also did not step in to save banks.  In the absence of deposit insurance, there were waves of panic, worsening financial distress, and a big output decline. The recovery was long and slow.  Welcome to the Great Depression. 
