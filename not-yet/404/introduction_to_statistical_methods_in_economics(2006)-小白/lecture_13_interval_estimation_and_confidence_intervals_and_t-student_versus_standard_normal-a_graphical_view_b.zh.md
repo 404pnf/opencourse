@@ -1,0 +1,9 @@
+![](images/lecture_13_interval_estimation_and_confidence_intervals_and_t-student_versus_standard_normal-a_graphical_view_b.zh_img_0.jpg)
+
+t分布与标准正态分布 
+
+![](images/lecture_13_interval_estimation_and_confidence_intervals_and_t-student_versus_standard_normal-a_graphical_view_b.zh_img_1.jpg)
+
+t分布与标准正态分布 
+
+![](images/lecture_13_interval_estimation_and_confidence_intervals_and_t-student_versus_standard_normal-a_graphical_view_b.zh_img_2.jpg)
