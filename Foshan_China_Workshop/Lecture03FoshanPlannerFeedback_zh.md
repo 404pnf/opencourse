@@ -1,74 +1,77 @@
-# Lecture 3 Foshan Planner Feedback: 
+# 第三讲 佛山规划师反馈： 
 
-## Comments of Deputy Planner:
-There is a change from the first presentation. Your development of ideas is more realistic. You developed the four fields further. 
+## 副规划师的评论：
 
-Shan Shui Foshan: Regarding the title – even though it’s good – there are no mountains in reality. I can see you gave preference to Sasaki’s plan with its green axis (vertical) and blue axis (horizontal) – this creates an ecological environment. During exploration, [unclear: us at MIT? Or the Foshan planners?] also discovered Foshan has a lot of cultural assets. So it is appropriate to frame your approach as “Ecological Foshan” or “Cultural Foshan.” 
+此次较第一次的展示有一个改变。你的发展理念更现实。你进一步拓展了四个领域。
 
-You sufficiently addressed water relationship and the villages. Transportation connections and commercial streets need more consideration. There is a lot of commercial on the periphery of the site and in the villages – for example in the middle village: markets for furniture, fish, and plastic. So the overall development will need to take this into consideration. 
+山水佛山：从这个标题来看——即使它很好——但现实中是没有山的。我能看出你更喜欢佐佐木带有绿轴（垂直）和蓝轴（水平）的规划——它创造了一种生态环境。在考察期，(不清楚：我们指在麻省理工的人员还是佛山的规划者？)还发现佛山有很多文化资产。所以将你的方法称为“生态佛山”或者“文化佛山”是合适的。
 
-For the transport – major consideration given to the North-south connection but also need to consider the ring and how to connect as a network. 
+你充分论述了水的关系以及村庄。需要更多地考虑交通连接和商业街道。场地周边和村庄里有很多商业街——比如在村庄中间有：家具、鱼类和塑料制品市场。所以全面发展需要将这些考虑在内。
 
-So many good ideas – make sure these continue to be communicated to Sasaki.  The other good ideas include: 
+对于交通——主要考虑了南北连接，但同时也要考虑环形路及如何将其连成一个网络。
 
-- Consideration of the view corridors across the banks.  
-- Preservation the existing village – demolition of everything is not realistic 
-- Using cultural assets to elevate the city’s image. 
+很多好想法——确保这些想法继续传递给佐佐木。其他的好想法包括：
 
-This is useful to our on-going work. Thanks! 
+- 考虑穿过河岸的观景廊。 
+- 保留存在的村庄——一切东西都拆除是不现实的。
+- 使用文化资产提升城市形象。
 
-## Glasses/Karaoke – Mr. Jo?:
-The presentation is clear and precise – the focus on the humanity and people and sustainability – is closely aligned with the new national policy.  
+这对我们正在进行的工作是有用的。谢谢！
 
-Addressing the Transportation questions: 
+## 双筒望远镜/卡拉OK——乔先生？
 
-1.  Challenges in implementing and encouraging viable public transit: 
-    - The problem with public transit use is the habits of people (changing their behavior) even though the government encourages the use of public transit, in reality there are high usage of motorcycles -- personal use has already adapted motorcycles; part of this is due to the inclination of national policy for private transit, although in GZ, they discourage the use of the motorcycle in the core city by not allowing licenses for new motorcycles.  
+这个陈述清楚而且精确——关注人道、民众和可持续性——同新的国家政策密切保持一致。
 
-1.  What plans do you have to deal with the increasing number of cars? 
+论述交通问题： 
 
-    - As for the car industry, it is national policy to encourage the use and development of this industry, and to have one auto per household is a personal goal for many families. This is encouraged by the government policy. The approach is to deal with the problems -- like congestions -- when they come. One way to do this, for example, if you have to register for licenses, you’ll have to bid for it, that will cost a lot of money [my notes say a few thousand USD - Tell] …so they’ll limit the number of licenses 
+1.  实施和鼓励可行的公共交通的挑战： 
+    
+	- 即使政府鼓励使用公共交通，公共交通使用的问题在于人们的习惯(改变着他们的行为)，现实中摩托车的使用率很高——个人已经适应使用摩托车了；尽管在广州，他们通过不给新摩托车提供驾驶执照来阻止核心城区摩托车的使用，这种情况部分是由于国家政策向私人交通工具倾斜原因。
 
-1. What is the future of the bike in Foshan? 
+2.  你有什么计划来应对数量增长的汽车呢？
 
-    - My personal opinion is that it should be encouraged (use) in conjunction with public transit, not to be replaced, but encouraged and developed… 
+    - 对于汽车产业来说，国家政策是鼓励汽车使用和产业发展的，平均每户拥有一辆汽车是很多家庭的目标。这是受政府政策鼓励的。方法是问题出现时将其解决掉——比如交通拥挤。例如，一种解决办法是，如果你需要注册驾照，就必须竞标取得，这会花掉很多钱(我的备注写着比如几千美元——建议)......因此他们会限制行驶证的数量。
 
-We would like to raise two questions for more information: 
+3. 佛山自行车的未来是什么？
 
-- Regarding the preservation of the villages and the transportation modes, you have presented lots of opportunities and strategies, but how to actually do this and implement it … we’d like some more ideas.
+    - 我个人的观点是自行车的使用同公共交通一样应当鼓励(使用)。不是被取代，而是受鼓励和发展......
 
-- You’ve raised the central theme of using the river as a central focus, and we think the idea of Foshan as a modern river city is a good focus.  What we’d like you to further develop is regarding the two sides, banks of the river, functions, character, identity and views are not yet fully explored… We hope you’ll seriously consider that and further develop it in our upcoming stage. It’s a major concern of the leaders and people of the city 
+为获得更多信息我们还想提出两个问题： 
 
-The questions the Foshan workshop have raised are the same ones that the officials have been thinking about. But the development of the new city is a long process; the first step is the bigger plan and the core (what the planners are looking at right now)…But the Foshan officials plan has stages/phases to facilitate implementation … as such, our plan should consider stages of development in all the topic areas discussed today.  
+- 考虑到村庄的保留和交通模式，你展示了很多机遇和策略，但实际如何操作执行......我们想要更多的想法。
 
-Our direction is correct, but now should develop more detailed (less conceptual) plans. Suggestion that we pick individual sites and give more detail on them. 
+-  你提出以河流作为一个中心焦点的核心主题，我们认为佛山作为一座现代沿岸城市的想法是一个好的中心。我们希望你进一步发展的是关于两边，河岸、功能、品质、特性和景观还没有完全开发......我们希望你认真考虑一下这些问题，在我们接下来的阶段中有进一步的发展。这是这座城市的领导和民众的一个主要关注点。
 
-Recently the Chinese cities have many concerns about the spatial quality and the thematic color of the city, how that has cultural implication to the character and the image (sienna = red, Beijing = grey; Paris = beige (sandstone)…So what color is Foshan? They haven’t figured that out yet, but they are concerned about the harmony on the basic color of the city to give a harmonious atmosphere to the color of the city (aka the image of the city). A color would allow the city to be harmoniously presented; it is a conclusive statement from the government and a clear projection of the city’s image. For example, in Nanjing, they had a web discussion asking for public opinions on what is the color of the city. 
+佛山研讨会提出的问题和官员们所想的问题是一样的。但是新城区的发展是一个长期过程；第一步是一项更大的计划与核心(规划者现在正在看的东西)......但是佛山官方计划有阶段/时期来促进其实现......同样的，我们的计划应该考虑今天讨论的所有话题地区的发展阶段。
 
-The four thematic foci are very useful for the future development and strategic development, especially the transport and water because my focus is urban infrastructure. On transport: the ideas are good for the different modes, but I would like to remind you that transport is system thinking, so we need to expand the frame to a more global area, including connection with Guangzhou and an even broader regional/more extensive area…but integration of different modes is interesting and useful to us. Please further consider the interface between the systems. It is an emerging concern for us. We want to know how successfully the different modes can interface with each other. We think that will determine the future success of the system. Therefore, we would like a further investigation of the relationships of modes and of how people switch from one mode to another. We want to know how this is done. Foshan officials have visited many cities, they have looked at Denmark and at Manchester UK. Officials think these are good examples that they’ve seen for traffic interchanging, successfully integrating modes of traffic with “zero distance” from one mode to the next. The success of that comes in terms of efficiency and saving energy. All of this has not been considered sufficiently/properly in China.  
+我们的方向是对的，但现在应该发展更详细的(少概念性的)计划。建议是我们挑选具体地点并给出更多细节。
 
-Third comment – not sure how deeply to go into the issue – the blue axis is a focus – Foshan is the origin of Cantonese culture, the cradle of it. How this project and specifically the riverbank integrates with culture will be a big source of tourism, how it integrates in to the transportation network will be a big factor and officials are interested to know more about that. So MIT must look at the development of that culture along the river banks and integration with transportation from north and south. 
+近来中国城市大量关注空间品质和城市的主题色彩，以及这些对城市品质和形象如何有文化暗示(锡耶纳=红色，北京=灰色；巴黎=米黄色(砂岩))......那么佛山是什么颜色呢？他们还没有想清楚，但是他们关注城市颜色的和谐性，给城市色彩(又称为城市形象)带来和谐氛围。一种颜色会允许一座城市和谐地展示；它是来自政府的一份结论性声明，是城市形象的一个清晰投影。例如，在南京，他们有一个网络讨论，就该城市是什么颜色征求公众的意见。
 
-Shan Shui is a good title because it brings a whole romantic sense to the whole area. The 4 topics are on target because those are the areas they are focusing on themselves.  
+四个主题焦点对未来发展和战略发展都非常有用，特别是运输和水利，因为我关注的是城市基础设施。运输上:这些想法对不同的模式都很好，但我想提醒你们，运输是系统思路，因此我们需要将模式扩展到更全局性的区域，包括与广州以及一个更广阔的区域/更宽泛的地区的联系......但是不同模式的融合对我们是有意思的，也是有用的。请进一步考虑系统间的联系。这对我们是一个新兴的关注点。我们想知道不同模式间的相互配合可以有多成功。我们认为这会决定系统未来的成功。因此，我们想就模式的关系和人们如何从一种模式转换到另一种模式做进一步调查。我们想知道这个是如何完成的。佛山的官员造访了许多城市，他们还去丹麦和英国曼彻斯特看过。官员们认为这些是他们看过的交通换位的好例子，以"零距离"成功地将一种交通模式整合到另一种交通模式。这项成功来自高效和节能。在中国，不是所有这些都得到了充分地/恰当地考虑。 
 
-Particularly interested in water as an asset for Foshan. Suggests: 
+第三条评论——不确定对这个问题有多少深入——蓝轴是一个焦点——佛山是广东文化的起源与摇篮。这项工程，特别是河岸如何与文化结合会是旅游业的一大来源，它如何合并到交通网络中会是一大要素，官员们有兴趣就此了解更多。所以麻省理工必须着眼于沿河岸文化的发展以及南北交通的整合。
 
-- Look into water, preservation of villages, garden building, wetlands – all these are key to preserving the cultural heritage of the city 
+山水是个好标题，因为它给整个地方带来一种完整的浪漫感觉。四个话题切中要害，因为这些是他们关注自身的领域。 
 
-- Hopes that when we proceed further, we can integrate our ideas with theirs to create implementable plans in the long run 
+尤其对作为佛山一种资产的水感兴趣。建议： 
 
-Normal mode of thinking in China is to deal with problems as they emerge. Our way of dealing is to anticipate the problems and deal with them in advance (not clear if he means ours by MIT or ours by Foshan). 
+- 调查水资源，乡村的保留，公园建筑，湿地——所有这些都是保存这座城市的文化遗产的关键
 
-Considers our work invaluable to their planning process, especially in the long run 
+- 希望当我们有进一步进展时，我们能将自己的想法与他们的想法融为一体，创造长远的可行计划
 
-- Water transport is very important in Foshan historically – so as a link to cultural preservation and transport, it is critical 
+在中国，正常思维方式是当问题出现时将其解决。我们的处理方式是预测问题并提前将其解决(不清楚他指的我们的是麻省理工的还是佛山的)。
 
-- For new towns, the idea of promoting water transport will help to preserve the cultural heritage of Foshan 
+考虑我们的工作对他们的规划过程是非常宝贵的，特别是长期来看 
 
-- Hopes for a scheme with three features: that attracts tourists, convenience for user, and economically feasible 
+- 水路运输在佛山历史上非常重要——也作为文化保留和运输的一种联系，它至关重要。 
 
-- Currently land use is not totally fixed for the city, so to minimizes traffic between the 2 banks and create an efficient network remains an open question, and he would appreciate if we thought more about how to do this 
+- 对于新城区，促进水路运输的想法会帮助保留佛山的文化遗产 
 
-- In talking about village preservation, didn’t talk about land value at all – issue is whether we should anticipate the increase in land value in connection to the preservation of villages in our scheme… 
+- 希望有具备三种特征的计划：吸引游客、对使用者方便并且经济上合算 
 
-- What we’ve omitted: haven’t thought about the nightlife activities on the river bank – how can we decorate/light up the riverbanks as a way to attract tourists 
+- 最近土地使用不是完全为这城市而准备，使两岸间的交通最小化以及创建一个高效网络仍然是一个开放问题，如果我们就如何去做有更多思考它会很感激。 
+
+- 谈到乡村保留，完全没有谈到土地价值——问题是我们是否应该将预测土地价值的提升与我们计划中的乡村保留结合起来...... 
+
+- 我们省略的是：还没有考虑河岸夜生活活动——我们能如何装饰/点亮河岸，来作为吸引游客的一种方式 

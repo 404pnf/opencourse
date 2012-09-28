@@ -1,30 +1,30 @@
-# lecture5 Case Study: The Restorer, Constructed Wetlands Canal Cleansing 
+# 第五讲：案例研究: 修复系统, 人工湿地运河清洗
 
-## Fuzhou, China 
+## 中国 福州
 
-### Context 
+### 背景介绍
 
-Fuzhou is a large city on the coast of southeast China with a population of about 1.5 million. There are 80 kilometers of open canals that transport roughly 130,000 m3 waste water per day through the city, out to the Min River and eventually to the Min Estuary, an important fishery for the Fujian province. The canals had become heavily polluted, particularly with raw sewage. City officials found that setting sewer pipes and pumping waste water to conventional treatment plants would be prohibitively expensive. They were looking for a mechanism to treat the water in the canals themselves.  
+福州是中国东南部一座大的海滨城市，总人口大约150万。拥有80公里开放运河，这些运河每天输送全市大约13万立方米的废水到闽河并最终到达闽江河口，福建省一个重要渔场。这些运河受到严重污染，尤其是未经处理的污水的污染。官员们发现设置下水道并把废水抽到传统污水处理厂的代价非常昂贵。他们在寻找一套可以在运河中处理废水的机制。
 
-### Key Features 
+### 主要特点
 
-Restorer Technology is comprised of  
+修复技术由以下几部分组成：
 
-- a floating platform to support planted ecosystems,  
-- an aeration system to maintain an aerobic aquatic ecosystem  
-- a walkway for operator access  
-- a bio-augmentation system 
+- 一个支持种植生态系统的浮动平台
+- 一个可以维持有氧水生生态系统的通风系统
+- 一个可供操作人员进入的通道
+- 一个生物强化系统
 
-Cleaning the water are 100,000 plants, 10,000 koi carp, and two strains of bacteria. This is an example of a constructed wetland where natural processes are put to work in a constructed system. 
+净化水需要十万株植物、一万条锦鲤和两菌株细菌。这是一个自然处理方法应用在人工系统中从而建造人工湿地的例子。
 
-This system has drastically improved the condition of the water. It is clear, does not smell and supports fish. The Restorer also improves the landscape aesthetics and appeal of the neighborhood. 
+该系统已经彻底地改善了水环境。改善后的水质干净、无味并且适合鱼类生长。该修复系统还改善了景观美感同时吸引了街区居民。
 
-### Process/Implementation 
+### 步骤/实施
 
-The project has faced challenges. There was a major fire in the floating blower building. The canal was entirely drained once due to a dam failure. The system has also endured several torrential rains and tropical storms. Still, the biology appears to be thriving and treating water.  
+该项目面临了挑战。浮动鼓风建筑着过一场大火。由于溃坝曾一度抽干运河中的水。该系统也经受了几次暴雨和热带风暴的袭击。尽管如此，该系统中的生物蓬勃生长改善着水质。
 
-### Cost-Benefit Analysis 
+### 成本-收益分析
 
-The Restorer costs about US$10 per person per year compared to conventional sewage treatment at US$80. 
+与传统污水处理方法每人每年花费80美元相比较，修复系统平均每人每年花费大约10美元。
 
-The chemical oxygen demand (the amount of oxygen needed to decay all organic matter in the water) has fallen from about 100 mg per liter to 40 mg per liter, indicating a high degree of treatment effectiveness. 
+化学需氧量（腐烂水中所用有机物的需氧量）从每升100毫克降低到每升40毫克，这就表明污水处理的高效力。

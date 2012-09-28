@@ -1,4 +1,4 @@
-# lecture5 Case Study: The Restorer, Constructed Wetlands Canal Cleansing 
+# Lecture5 Case Study: The Restorer, Constructed Wetlands Canal Cleansing 
 
 ## Fuzhou, China 
 
@@ -10,7 +10,7 @@ Fuzhou is a large city on the coast of southeast China with a population of abou
 
 Restorer Technology is comprised of  
 
-- a floating platform to support planted ecosystems,  
+- a floating platform to support planted ecosystems 
 - an aeration system to maintain an aerobic aquatic ecosystem  
 - a walkway for operator access  
 - a bio-augmentation system 

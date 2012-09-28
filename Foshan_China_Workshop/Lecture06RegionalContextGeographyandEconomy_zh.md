@@ -1,15 +1,15 @@
-# lecture6 Regional Context : Geography and Economy 
+# 第六讲：地区背景：地理和经济
+ 
+地理和经济::文化::交通::水资源
+  
+佛山位于广东省中部，处于珠江三角洲内陆最高点，距广州、中山、江门、珠海、肇庆和东莞不足50公里，距澳门和香港也仅有100多公里。
 
-Geography and Economy :: Culture :: Transportation :: Water 
+由三江交汇而成的珠江三角洲最终流入南海，珠江三角洲占地约9000平方公里，居民4800万（包括香港和澳门）。
 
-Foshan City is located at the center of Guangdong Province, at the inland apex of the Pearl River Delta, less than 50km from Guangzhou, Zhongshan, Jiangmen, Zhuhai, Zaoqing and Dongguan, and just over 100km from Macao and Hong Kong.  
+珠江三角洲有一个三级城市等级体系。最高一级主要有两个城市：广州和香港。第二级分别是深圳、珠海、佛山、东莞等等。下面就是市中心22个县级市以及遍布该地区的大约300个城市化乡镇。 
 
-Formed by the confluence of three rivers as they run to the South China Sea, the Pearl River Delta occupies an area of some 9,000 square kilometers and has a population of 48 million residents (including Hong Kong and Macao). 
+该地区半数以上人口集中在三个城市聚集区，由此形成一个近似等腰三角形。处在三角形顶端的是广州、佛山聚集区。从这个三角形的顶端延伸至东南部是香港/深圳聚集区，延伸至西南是澳门/珠海聚集区。目前沿着广州-深圳-香港地带和广州-珠海-澳门地带正浮现出城市发展的模式。
 
-There is a three-level hierarchy of urban systems in the Pearl River Delta. At the top are two primary cities: Guangzhou and Hong Kong. At the second level are the cities of Shenzhen, Zhuhai, Foshan, Dongguan, etc. Below these are the urban centers of the 22 county-status cities and about 300 urbanized towns scattered across the region.  
+即使当香港作为一个独立的地区行使其职能的时候，中国珠江三角洲与其的关系也通过贸易和商业紧密地联系在一起。自从20世纪70年代末中国大陆实施对外“开放政策”以来，大量香港制造商把工厂迁到珠三角地区。珠三角地区因其相对低的经营成本和劳动力成本而闻名。这就成就了该地区“前店后厂”的经济合作模式。结果，香港经济从以劳动密集、轻工业为导向的中心转变成一个重要的以服务业为经济基础的地区金融和物流中心。
 
-More than half of the region's population is concentrated in three city clusters that form an approximate isosceles triangle. At the apex of the triangle is the Guangzhou/Foshan cluster. At a distance of about 120 kilometers from the apex are the Hong Kong/Shenzhen cluster to the southeast, and the Macao/Zhuhai cluster to the southwest. A pattern of urban development is presently emerging along both the Guangzhou-Shenzhen-Hong Kong corridor, and the Guangzhou-Zhuhai-Macao corridor. 
-
-Even while Hong Kong operated as a separate country, China's Pearl River Delta region was closely linked to Hong Kong through their relationship in trade and commerce. Since the implementation of the "Open Door" policy in Mainland China in the late 1970s, a large number of Hong Kong manufacturers relocated factories to the PRD region which is known for comparatively low operational and labor costs. This added to the phenomenon of "Front Shop, Back Factory" economic cooperation in the region. As a result, Hong Kong's economy has been transformed from a labor-intensive, light-industry oriented center to a major regional financial and logistic hub with service industries making up its current economic foundation.  
-
-The Pearl River Delta's annual GDP growth rate averaged approximately 20 percent per year during the 1980s and 1990s. In 2002, the region's gross domestic product reached US$113 billion, and it exported $112.5 billion worth of goods - 9.2 percent and 34.6 percent of China's totals respectively. The region's economic prowess continues to grow today. The challenge faced by Foshan is focusing planning efforts to capture a portion of this economic boom while making Foshan the most livable of Chinese cities.  
+从20世纪八十到九十年代珠江三角洲年平均生产总值增长率每年大约20%。2002年该地区国内生产总值达到1130亿美元，其中出口物品价值1125亿美元--分别占到中国总产值的9.2%和34.6%。今天该地区的经济实力还在继续增长。目前佛山面临的挑战是在将佛山打造成最适合居住的中国城市的同时集中精力规划来收获这一经济繁荣。 

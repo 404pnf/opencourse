@@ -1,4 +1,4 @@
-# lecture6 Regional Context : Geography and Economy 
+# Lecture6 Regional Context : Geography and Economy 
 
 Geography and Economy :: Culture :: Transportation :: Water 
 

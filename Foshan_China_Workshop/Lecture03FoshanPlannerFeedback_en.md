@@ -1,6 +1,7 @@
 # Lecture 3 Foshan Planner Feedback: 
 
 ## Comments of Deputy Planner:
+
 There is a change from the first presentation. Your development of ideas is more realistic. You developed the four fields further. 
 
 Shan Shui Foshan: Regarding the title – even though it’s good – there are no mountains in reality. I can see you gave preference to Sasaki’s plan with its green axis (vertical) and blue axis (horizontal) – this creates an ecological environment. During exploration, [unclear: us at MIT? Or the Foshan planners?] also discovered Foshan has a lot of cultural assets. So it is appropriate to frame your approach as “Ecological Foshan” or “Cultural Foshan.” 
@@ -18,18 +19,20 @@ So many good ideas – make sure these continue to be communicated to Sasaki.  T
 This is useful to our on-going work. Thanks! 
 
 ## Glasses/Karaoke – Mr. Jo?:
+
 The presentation is clear and precise – the focus on the humanity and people and sustainability – is closely aligned with the new national policy.  
 
 Addressing the Transportation questions: 
 
 1.  Challenges in implementing and encouraging viable public transit: 
-    - The problem with public transit use is the habits of people (changing their behavior) even though the government encourages the use of public transit, in reality there are high usage of motorcycles -- personal use has already adapted motorcycles; part of this is due to the inclination of national policy for private transit, although in GZ, they discourage the use of the motorcycle in the core city by not allowing licenses for new motorcycles.  
+    
+	- The problem with public transit use is the habits of people (changing their behavior) even though the government encourages the use of public transit, in reality there are high usage of motorcycles -- personal use has already adapted motorcycles; part of this is due to the inclination of national policy for private transit, although in GZ, they discourage the use of the motorcycle in the core city by not allowing licenses for new motorcycles.  
 
-1.  What plans do you have to deal with the increasing number of cars? 
+2.  What plans do you have to deal with the increasing number of cars? 
 
-    - As for the car industry, it is national policy to encourage the use and development of this industry, and to have one auto per household is a personal goal for many families. This is encouraged by the government policy. The approach is to deal with the problems -- like congestions -- when they come. One way to do this, for example, if you have to register for licenses, you’ll have to bid for it, that will cost a lot of money [my notes say a few thousand USD - Tell] …so they’ll limit the number of licenses 
+    - As for the car industry, it is national policy to encourage the use and development of this industry, and to have one auto per household is a personal goal for many families. This is encouraged by the government policy. The approach is to deal with the problems -- like congestions -- when they come. One way to do this, for example, if you have to register for licenses, you’ll have to bid for it, that will cost a lot of money [my notes say a few thousand USD - Tell] …so they’ll limit the number of licenses. 
 
-1. What is the future of the bike in Foshan? 
+3. What is the future of the bike in Foshan? 
 
     - My personal opinion is that it should be encouraged (use) in conjunction with public transit, not to be replaced, but encouraged and developed… 
 
@@ -43,7 +46,7 @@ The questions the Foshan workshop have raised are the same ones that the officia
 
 Our direction is correct, but now should develop more detailed (less conceptual) plans. Suggestion that we pick individual sites and give more detail on them. 
 
-Recently the Chinese cities have many concerns about the spatial quality and the thematic color of the city, how that has cultural implication to the character and the image (sienna = red, Beijing = grey; Paris = beige (sandstone)…So what color is Foshan? They haven’t figured that out yet, but they are concerned about the harmony on the basic color of the city to give a harmonious atmosphere to the color of the city (aka the image of the city). A color would allow the city to be harmoniously presented; it is a conclusive statement from the government and a clear projection of the city’s image. For example, in Nanjing, they had a web discussion asking for public opinions on what is the color of the city. 
+Recently the Chinese cities have many concerns about the spatial quality and the thematic color of the city, how that has cultural implication to the character and the image (Sienna = red, Beijing = grey; Paris = beige (sandstone)…So what color is Foshan? They haven’t figured that out yet, but they are concerned about the harmony on the basic color of the city to give a harmonious atmosphere to the color of the city (aka the image of the city). A color would allow the city to be harmoniously presented; it is a conclusive statement from the government and a clear projection of the city’s image. For example, in Nanjing, they had a web discussion asking for public opinions on what is the color of the city. 
 
 The four thematic foci are very useful for the future development and strategic development, especially the transport and water because my focus is urban infrastructure. On transport: the ideas are good for the different modes, but I would like to remind you that transport is system thinking, so we need to expand the frame to a more global area, including connection with Guangzhou and an even broader regional/more extensive area…but integration of different modes is interesting and useful to us. Please further consider the interface between the systems. It is an emerging concern for us. We want to know how successfully the different modes can interface with each other. We think that will determine the future success of the system. Therefore, we would like a further investigation of the relationships of modes and of how people switch from one mode to another. We want to know how this is done. Foshan officials have visited many cities, they have looked at Denmark and at Manchester UK. Officials think these are good examples that they’ve seen for traffic interchanging, successfully integrating modes of traffic with “zero distance” from one mode to the next. The success of that comes in terms of efficiency and saving energy. All of this has not been considered sufficiently/properly in China.  
 

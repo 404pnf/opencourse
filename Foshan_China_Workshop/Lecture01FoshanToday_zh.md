@@ -1,33 +1,33 @@
-# Lecture 1 Foshan today 
+# 第一讲 今日佛山 
 
-Foshan Municipality (Foshan), Guangdong Province, is home to approximately 3,358,500 people. It is approximately 16km from Guangzhou and 231km from Hong Kong. Covering a total area of 3,813 square kilometers, Foshan is divided into 6 county-level administrative districts: Chancheng, Shunde, Nanhai, Sanshui, Gaoming, and Foshan City 
+广东省佛山市人口约为3,358,500。距广州约16公里，距香港231公里。佛山占地总面积为3,813平方公里，现辖禅城、顺德、南海、三水、高明和佛山新区六大县级行政区。 
 
-In 2002, Foshan Municipality’s GDP equaled 116 billion RMB. The total output value of its industrial and agricultural sectors totaled 217 billion RMB in 2000. Its major industries include the manufacture of electronics, textiles, plastics and leather, ceramics, electric household appliances, building materials, silk, chemical fibers, and garments. 
+2002年，佛山市生产总值 (GDP) 达1160亿人民币。2000年，工农业生产总值达2170亿人民币。主要工业包括电子产品制造、纺织品、塑料和皮革、制陶业、家用电器、建筑材料、丝绸、化学纤维和服装。 
 
-Foshan City developed about two miles inland from the Dong Ping River and today has a population of approximately 500,000 residents. The rapidly growing city has plans to expand southward and develop new administrative, commercial, tourist, and residential areas Most of the land on the south bank is covered by fishponds. As part of the expansion plan for the city of Foshan, this area will be incorporated into the city proper through a plan designed by the American firm Sasaki Associates, Inc. The city has already begun construction for a new stadium in this area in preparation for the 2006 China Games. Other development plans include the building of new parks, commercial areas, residential housing, educational facilities and shopping areas – practically an entire new city on the south bank.  
+佛山新区自东平河向内地方向约2英里处发展，居民人口约为50万。这座快速发展中的城市已规划向南扩展并开发新的行政、商业、旅游和居民区。东平河南岸大部分地区遍布鱼塘。作为佛山市扩展规划的一部分，南岸将采用美国公司佐佐木联合股份有限公司设计的方案，从而恰当地融入这座城市。为迎接2006年广东省运会，该区域新体育场已投工建设。其它发展规划包括建设新公园、商业区、住宅建筑、教育设施和购物区等—南岸事实上完全是一座新城。 
 
-## History 
+## 历史 
 
-Located in the Pearl River Delta (PRD), Foshan has a long and rich history. Prior to the 13th century, the present-day PRD was swampy, mosquito-infested land. Chinese settlement patterns in northern Guangdong province precipitated the change in the delta’s physical form. Slash and burn agricultural methods used in the hills of northern Guangdong Province deposited silt downriver along the floodplains, creating more solid land which would later be settled. From 1273-74, Kublai Khan’s armies began moving south and drove a mass migration of people from northern Guangdong Province to the lower south sea frontier. As this area became settled, people drained swamps to get rid of mosquito-borne malaria and built levees for flood control. The channelized drainage of water during the monsoon seasons deposited the silt at the mouth of the Pearl River estuary.  Much of the land upon which Foshan currently stands was recovered from the south sea, through a process of placing rocks around the perimeter of sand flats. After these sand flats, or “shatan,” were stabilized, legumes were planted to fix nitrogen into the soil. After 3-5 years, the shatans were ready for rice. The process was repeated on the downstream side of the new shatans, which in turn gave rise to more captured land. 
+佛山坐落于珠江三角洲，历史悠久深厚。13世纪前的珠江三角洲遍布沼泽，是蚊虫的滋生地。广东省北部的中式聚落形态促成了三角洲外在形态的转变。广东省北部山区采用刀耕火种的农业方式，使得淤泥堆积在河漫滩下游，从而形成更多可供定居的坚实土地。1273至1274年，忽必烈的军队南迁，驱逐广东省北部的人们大规模迁徙到下游的南海边界。因为在此定居，于是人们排干了沼泽，以避免蚊虫引发疟疾，并筑建堤坝防洪。在季风季节风顺着渠道吹来，将水中淤泥堆积在珠江口。通过在沙滩周边放置岩石，佛山从南海中获得了很大一部分土地。沙滩稳定后，人们种植豆类植物以向土壤中补充氮气。3至5年后，沙滩可用于种植大米。在新沙滩下游一侧重复这一过程，从而获得更多可用的土地。
 
-Favorably situated at the confluence of the West and North Rivers, Foshan has historically been an important trading city with docks, piers and warehouses. It was known for its high-quality iron cooking pots. By end of 18th century, Foshan’s population was an estimated 500,000, nearly all of whom were urban: merchants and their families, cotton textile workers, tea curers, and ironmongers. The total estimated population for the Foshan-Guangzhou area totaled 1-1.5 million. 
+佛山地理位置优越，处于西河与北河汇合处，自古以来便是拥有船坞、码头和仓库的重要贸易城市。佛山高品质的铁制烹饪锅闻名于世。截至18世纪末，佛山人口约为50万，几乎全部为城市居民：商人和他们的家人，棉纺织品工人，茶加工人员，及五金商。佛山-广州区域总人口估算为100万至150万。
 
-## Early Domestic Trading 
+## 早期国内贸易 
 
-By end of 17th century, Foshan was the cotton textile commercial center in South China, in a triangular trade arrangement.  
+到17世纪末，通过三角贸易方式，佛山成为华南棉纺织品商业中心。  
 
-## Early Trade with Europe 
+## 与欧洲的早期贸易 
 
-Europeans purchased porcelain, lacquered ware, silk, cotton cloth (“nankeens”), refined and raw sugar, and tea. They paid in silver bullion. The British East India Company (EIC), in particular, began importing raw cotton from India to meet the increasing Chinese demand and to stem the flow of silver into China. By 1827, the favorable balance of trade for China had turned in favor of the British. 
+欧洲人购买瓷器、漆器、丝绸、棉布（“南京棉布”）、精制糖与原糖，和茶叶。他们用银条付款。尤其是英国东印度公司，开始从印度进口原棉，以满足中国日益增加的需求，阻止银币流入中国。至1827年，中国贸易顺差已转为英国贸易顺差。 
 
-As Europe’s demand for silk increased, farmers in the PRD switched from subsistence rice farming to commercialized silk farming. This practice of sericulture, also known as the mulberry embankment and fishpond method, has been cited as a sustainable, pre-modern agricultural ecosystem. In this system, silk worms are fed on the leaves of mulberry trees. Then, silk worm excrement, mulberry tree leaves and other organic material are gathered and thrown into fish ponds, providing food for carp. The fish were harvested annually. Mulch that formed from fish waste and other decomposed organic matter was scooped from the ponds and used to fertilize the mulberry trees and rice fields. 
+伴随着欧洲对丝绸需求增加，珠江三角洲地区的农民由原来维持生存的水稻耕作转为商业化的桑蚕农业。这种养蚕方式，也被称作桑基鱼塘模式，是一种可持续、前现代农业生态系统。在这一系统里，用桑树叶子喂养桑蚕，之后，收集桑蚕的排泄物、桑树叶子和其它有机物质，扔进鱼塘，用来喂养鲤鱼。鱼每年捕捞一次。从池塘中铲出鱼废弃物和其它腐烂的有机物质，用来为桑树和水稻田施肥。
 
-Like Guangzhou, much of Foshan’s current economic strength stems from its traditional place as a major hub of PRD exports. Historically, merchants contracted with peasant-families growing sugarcane and exported raw and refined sugar to Jiangnan. In turn, raw cotton was imported from Jiangnan to Foshan for spinning and weaving in the textile industry. The resulting cotton cloth and yarn were then sold throughout the hinterland to peasant families in exchange for rice that was sold for export to Foshan and Guangzhou. 
+与广州类似，佛山当今经济优势很大一部分源自它作为珠江三角洲主要出口中心的传统地位。历史上，商人与种植甘蔗的农民家庭签订合同，并向江南输出粗糖和精制糖。反过来，他们从江南向佛山输入原棉，用于纺织工业纺纱和编织。之后，成品棉布和纱线通过港口腹地卖给农民家庭，用来交换大米，大米卖到佛山和广州，用于出口。 
 
-Throughout the PRD, rice from Foshan was sold and raw silk was imported for finishing. From Nanyang (which included countries to the south such as Vietnam, Cambodia, Burma, Malaysia, and the Philippines), raw cotton, rice and dyes were imported in exchange for silk, cotton cloth and refined sugar produced in Foshan. Europeans eventually purchased these products in Guangzhou. In exchange for silk, cotton goods and tea, the Europeans brought raw cotton, silver and opium. This historical network of production and trade within the PRD positioned Foshan to become a center of industry and economic strength. 
+在整个珠三角地区，佛山卖出大米，买进用来最终加工的生丝。从南洋（包括南部的国家，比如越南、柬埔寨、缅甸、马来西亚和菲律宾）进口原棉、大米和染料，交换佛山生产的丝绸、棉布和精制糖。欧洲人最终从广州购买这些产品。作为丝绸、棉制品和茶叶的交换，欧洲人带来原棉、银子和鸦片。珠三角历史上的生产和贸易网络促使佛山成为工业和经济实力的中心。
 
-Sources: 
+来源: 
 
-Foshan Municipal Government Online 
+佛山市政府网站 
 
-Robert B. Marks, Tigers, rice, silk, and silt: environment and economy in late imperial south China, New York: Cambridge University Press, 1997. 
+罗伯特·马克，*老虎、大米、丝绸和淤泥：封建社会晚期中国南方环境与经济*，纽约：剑桥大学出版社，1997 

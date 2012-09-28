@@ -30,4 +30,4 @@ Sources:
 
 Foshan Municipal Government Online 
 
-Robert B. Marks, Tigers, rice, silk, and silt: environment and economy in late imperial south China, New York: Cambridge University Press, 1997. 
+Robert B. Marks, *Tigers, rice, silk, and silt: environment and economy in late imperial south China*, New York: Cambridge University Press, 1997. 

@@ -28,7 +28,7 @@ Singapore pursued several important strategies and policies:
 
 - Encourage provision of shade along walkways and roadsides through planting policies, particularly in civic and governmental areas 
 
-- Encourage property owners and residents to focus on the greening of rooftops and sides of high-rise buildings – maximizes land use while improving the environment. 
+- Encourage property owners and residents to focus on the greening of rooftops and sides of high-rise buildings – maximizes land use while improving the environment
 
 - Require developers of residential areas to plant roadside trees and set aside land for open space 
 
