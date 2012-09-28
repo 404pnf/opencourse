@@ -1,12 +1,10 @@
-# 11.947 Race, Immigration and Planning 
+# Where immigrants are settling in the U.S. and why? 
 
 Session 4 Lecture Notes: 
 
 J. Phillip Thompson 
 
 Data on Immigration: 
-
-Where immigrants are settling in the U.S. and why? 
 
 ![](images/Lecture03GeographyandImmigrationintheU.S._img_0.jpg)
 

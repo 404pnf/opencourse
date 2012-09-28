@@ -115,7 +115,7 @@ J. Phillip Thompson
 
     1. Globalization has helped the wage differential to explode. It is great if you are at the top. 
  
-###. What keeps the American worker (who has lost their job in the American workforce because it has gone overseas) from rebelling? 
+### What keeps the American worker (who has lost their job in the American workforce because it has gone overseas) from rebelling? 
 
 1. Immigrant Labor 
 
@@ -125,19 +125,19 @@ J. Phillip Thompson
 
         1. Expansion at the bottom: 
 
-        1. Taking care of children 
+            1. Taking care of children 
 
-        1. Cooking / Serving food 
+            1. Cooking / Serving food 
 
-        1. Cleaning 
+            1. Cleaning 
 
-    1. The middle, native-born American workers (black and white) are getting squeezed 
+        1. The middle, native-born American workers (black and white) are getting squeezed 
 
-        1. Manufacturing 
+            1. Manufacturing 
 
-        1. Most things in this category are being replicated in developing countries. 
-
-            1. Even software design and technicians. 
+            1. Most things in this category are being replicated in developing countries. 
+    
+                   1. Even software design and technicians. 
 
     2. People are deep in debt. 
 
